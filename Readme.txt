@@ -4,4 +4,3 @@ Commands
 /show show time
 /exit ends app
 /master command
-/beta command
