@@ -3,3 +3,4 @@ Commands
 /stop stop time
 /show show time
 /exit ends app
+/beta command
