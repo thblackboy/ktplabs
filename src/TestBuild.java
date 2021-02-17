@@ -66,8 +66,9 @@ static boolean on = false;
 		break;	
 		}
 		 }
+		 on=false;
 		 System.out.println("thanks for using our soft");
-		on=false;
+		
 		//	System.out.println();
 			//System.out.printf("%d:%d:%d",hour,min,sec);
 		
